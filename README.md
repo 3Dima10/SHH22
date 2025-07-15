@@ -41,4 +41,4 @@ ssh ВашЛогин@IP_Адрес_ПК
 ssh User01@192.168.1.15
 ```
 
-* Для отмены изменений удалите правило брандмауэра "OpenSSH Server (sshd)" и удалите компонент OpenSSH-Server через "Apps & Features". *
+**Для отмены изменений удалите правило брандмауэра "OpenSSH Server (sshd)" и удалите компонент OpenSSH-Server через "Apps & Features".**
